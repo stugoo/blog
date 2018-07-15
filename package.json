@@ -1,0 +1,16 @@
+{
+  "name": "stugoo-blog",
+  "version": "1.0.0",
+  "description": "Wordpress theme for stugoos blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^8.6.5",
+    "node-sass": "^4.9.2",
+    "postcss-cli": "^5.0.1"
+  }
+}
